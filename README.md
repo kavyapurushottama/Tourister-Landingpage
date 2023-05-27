@@ -1,3 +1,7 @@
 # OIBSIP
-Tourister landing page--
-build using HTML,CSS and Bootstrap.
+Internship Repository on Web Development
+Oasis Infobyte
+
+-- Landing Page
+   Portfolio
+   Calculator
