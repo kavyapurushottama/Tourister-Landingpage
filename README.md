@@ -1,7 +1,5 @@
 # OIBSIP
 Internship Repository on Web Development
-Oasis Infobyte
+(Oasis Infobyte)
 
--- Landing Page
-   Portfolio
-   Calculator
+-- Landing Page , Portfolio , Calculator
